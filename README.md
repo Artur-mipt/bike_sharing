@@ -2,5 +2,5 @@
 
 Если рассмотреть вместимости станций, то никаких закономерностей не видно. На разных станциях (за исключением вышедших из строя) вместимость отличается не сильно. Должно быть, компания не занималось анализом использования станций, чтобы оптимизировать количество слотов под велосипеды на них:
 
-![Alt text](https://github.com/Artur-mipt/bike_sharing/blob/master/images/capacity.png?raw=true "Title")
+![Alt text](https://github.com/Artur-mipt/bike_sharing/blob/master/images/capacity.PNG?raw=true "Title")
 <img src='images/capacity.png'>
